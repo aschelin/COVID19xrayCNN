@@ -11,3 +11,9 @@ Our work aims to contribute to this scenario, providing machine learning gears t
 To train the CNN model, we used a publicly available dataset from [1-2]. The balanced set contained 3616 samples of each category. About 70% of them were used for training the NN and 30% for validation. 
 
 This script is inspired by the material available on [3].
+
+> [1] M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz, M. T. Islam, “Can AI help in screening Viral and COVID-19 pneumonia?” IEEE Access, Vol. 8, 2020, pp. 132665 - 132676. https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
+
+> [2] Rahman, T., Khandakar, A., Qiblawey, Y., Tahir, A., Kiranyaz, S., Kashem, S.B.A., Islam, M.T., Maadeed, S.A., Zughaier, S.M., Khan, M.S. and Chowdhury, M.E., 2020. Exploring the Effect of Image Enhancement Techniques on COVID-19 Detection using Chest X-ray Images.
+
+> [3] https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/
